@@ -124,43 +124,43 @@ a:hover {
 }
 
 .q {
-  background-image: url("picture/drums/tom1.png");
+  background-image: url("/picture/drums/tom1.png");
   background-repeat: no-repeat;
   background-size: 50px 50px;
 }
 
 .w {
-  background-image: url("picture/drums/tom2.png");
+  background-image: url("/picture/drums/tom2.png");
   background-repeat: no-repeat;
   background-size: 50px 50px;
 }
 
 .e {
-  background-image: url("picture/drums/tom3.png");
+  background-image: url("/picture/drums/tom3.png");
   background-repeat: no-repeat;
   background-size: 50px 50px;
 }
 
 .r {
-  background-image: url("picture/drums/tom4.png");
+  background-image: url("/icture/drums/tom4.png");
   background-repeat: no-repeat;
   background-size: 50px 50px;
 }
 
 .i {
-  background-image: url("picture/drums/snare.png");
+  background-image: url("/picture/drums/snare.png");
   background-repeat: no-repeat;
   background-size: 50px 70px;
 }
 
 .o {
-  background-image: url("picture/drums/crash.png");
+  background-image: url("/picture/drums/crash.png");
   background-repeat: no-repeat;
   background-size: 150px 300px;
 }
 
 .p {
-  background-image: url("picture/drums/kick.png");
+  background-image: url("/picture/drums/kick.png");
   background-repeat: no-repeat;
   background-size: 50px 50px;
 }
