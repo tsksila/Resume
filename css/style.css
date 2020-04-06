@@ -1,0 +1,192 @@
+body {
+  background-color: #272343;
+  margin: 0;
+  color: #fff;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #aeefec;
+  border-width: 20px;
+  width: 10%;
+}
+
+h1 {
+  font-size: 380%;
+  font-family: "Pacifico", cursive;
+  margin-top: 100px;
+}
+h2 {
+  font-family: "Comfortaa", cursive;
+}
+p {
+  font-family: "Comfortaa", cursive;
+  padding: 30px;
+  font-weight: lighter;
+  background-color: #e3f6f5;
+  border-radius: 20px;
+  color: #272343;
+}
+a {
+  font-family: "Comfortaa", cursive;
+  color: #fff;
+}
+a:hover {
+  color: #bae8e8;
+  text-decoration: none;
+}
+.list {
+  font-family: "Comfortaa", cursive;
+  padding: 30px;
+  font-weight: lighter;
+  background-color: #e3f6f5;
+  border-radius: 20px;
+  color: #272343;
+}
+
+.pic-profile {
+  width: 35%;
+  float: left;
+  margin-top: 100px;
+  margin-right: 50px;
+}
+.intro-container {
+  background-color: #00bcd4;
+  position: relative;
+  top: 100px;
+  left: 100px;
+  bottom: 100px;
+  padding: 30px;
+  height: px;
+}
+.profile-container {
+  background-color: #b2ebf2;
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
+
+.title {
+  background-color: #272343;
+  color: #fff;
+}
+
+.navbar-brand {
+  font-family: "Pacifico", cursive;
+  font-size: 2.5rem;
+
+  padding: 10px;
+}
+.nav-link {
+  font-family: "Pacifico", cursive;
+}
+
+.topic {
+  background-color: #bae8e8;
+  color: #272343;
+  margin-top: 30px;
+  font-family: "Pacifico", cursive;
+  border-radius: 50px 20px;
+  padding: 15px;
+  box-shadow: 5px 2px 2px #970b9c;
+}
+
+.mini-icon {
+  width: 2%;
+}
+.icon-contact {
+  width: 10%;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.blank {
+  width: 100px;
+  height: 100px;
+}
+
+.drum {
+  outline: none;
+  border: 2px solid #cd3af1;
+  font-size: 1rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #eef10b;
+  text-shadow: 3px 0 #161616;
+  border-radius: 15px;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.q {
+  background-image: url("/cv/picture/drums/tom1.png");
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+}
+
+.w {
+  background-image: url("/cv/picture/drums/tom2.png");
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+}
+
+.e {
+  background-image: url("/cv/picture/drums/tom3.png");
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+}
+
+.r {
+  background-image: url("/cv/picture/drums/tom4.png");
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+}
+
+.i {
+  background-image: url("/cv/picture/drums/snare.png");
+  background-repeat: no-repeat;
+  background-size: 50px 70px;
+}
+
+.o {
+  background-image: url("/cv/picture/drums/crash.png");
+  background-repeat: no-repeat;
+  background-size: 150px 300px;
+}
+
+.p {
+  background-image: url("/cv/picture/drums/kick.png");
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+}
+
+.set {
+  margin: 2% auto;
+  background-color: #e3f6f5;
+  border-radius: 20px;
+  text-align: center;
+  color: #272343;
+}
+
+@media screen and (max-width: 990px) {
+  h1 {
+    font-size: 200%;
+  }
+  h2 {
+    font-size: 0.5 rem;
+  }
+}
+@media screen and (max-width: 750px) {
+  h1 {
+    font-size: 150%;
+  }
+  h2 {
+    font-size: 70%;
+    margin-top: 20px;
+  }
+}
