@@ -186,9 +186,9 @@ a:hover {
     font-size: 150%;
   }
   h2 {
-    font-size: 70%;
-    margin-top: 20px;
+    font-size: 70%; 
   }
+  
   a{
     font-size:70%;
     margin-top:10px ;
@@ -201,10 +201,10 @@ a:hover {
     font-size: 150%;
     
   }
-  h2 {
-    font-size: 40%;
-    
+ .toppic {
+   font-size : 70% ;
   }
+ 
   a{
     font-size: 40%;
     margin-top:10px ;
