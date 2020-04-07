@@ -189,4 +189,9 @@ a:hover {
     font-size: 70%;
     margin-top: 20px;
   }
+  a{
+    font-size:70%;
+    margin-top:10px ;
+    
+  }
 }
