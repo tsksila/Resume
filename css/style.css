@@ -198,12 +198,12 @@ a:hover {
 
 @media screen and (max-width: 420px) {
   h1 {
-    font-size: 120%;
+    font-size: 150%;
     
   }
   h2 {
-    font-size: 60%;
-    margin-top: 20px;
+    font-size: 50%;
+    margin-top: 50px;
   }
   a{
     font-size:50%;
