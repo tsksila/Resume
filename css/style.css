@@ -195,3 +195,19 @@ a:hover {
     
   }
 }
+
+@media screen and (max-width: 420px) {
+  h1 {
+    font-size: 120%;
+    
+  }
+  h2 {
+    font-size: 60%;
+    margin-top: 20px;
+  }
+  a{
+    font-size:50%;
+    margin-top:10px ;
+    
+  }
+}
